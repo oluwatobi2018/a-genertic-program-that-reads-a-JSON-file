@@ -1,5 +1,5 @@
 # a-genertic-program-that-reads-a-JSON-file
-A genertic program that: reads a JSON file 
+A genertic program that: reads a JSON file.
 I wrote a genertic program that:
 - Reads a JSON file similar to what's present in this location (./data/)
 - Sniffs the schema of the JSON file 
