@@ -10,7 +10,7 @@
             "description": "Petstore",
             "schema": {
                 "title": "A JSON Schema for a Pet Store.",
-                "id": "http://mediapetstore.com/v2/schema.json#",
+                "id": "http://petstore.swagger.io/oauth/dialog/v2/schema.json#",
                 "$schema": "http://json-schema.org/draft-04/schema#",
                 "type": "object",
                 "required": [
