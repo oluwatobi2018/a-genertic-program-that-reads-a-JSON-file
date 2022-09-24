@@ -7,7 +7,7 @@ I wrote a genertic program that:
 
 # Additional informations for test cases
 - - Padding: All attributes in the JSON schema were padded with "tag" and "description" keys
-- The schema output captures ONLY the attributes within the "message" key of the input JSON source data. All attributes withn the key "attributes" were excluded
+- The schema output captures ONLY the attributes within the "message" key of the input JSON source data. All attributes within the key "attributes" were excluded
 - The JSON schema set all properties "required": false
 - For data types of the JSON schema:
 STRING: program identifies what is a string and map accordingly in JSON schema output
